@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\bin\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.exe
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\bin\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.deps.json
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\bin\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.runtimeconfig.json
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\bin\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\bin\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.dll
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\bin\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.pdb
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\obj\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\obj\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\obj\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\obj\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\obj\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.dll
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\obj\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.pdb
+C:\Users\PC\source\repos\Lop Circle và lop Cylinder\Lop Circle và lop Cylinder\obj\Debug\netcoreapp3.1\Lop Circle và lop Cylinder.genruntimeconfig.cache

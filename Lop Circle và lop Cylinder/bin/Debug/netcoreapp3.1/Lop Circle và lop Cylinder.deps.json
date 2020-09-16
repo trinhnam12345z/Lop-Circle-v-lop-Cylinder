@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lop Circle và lop Cylinder/1.0.0": {
+        "runtime": {
+          "Lop Circle và lop Cylinder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lop Circle và lop Cylinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
